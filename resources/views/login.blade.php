@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Sign In Sibee</title>
+    <title>Sign In Co-Learn</title>
 
     <link href="{{ asset('login_register/images/logo.png') }}" rel="icon" />
     <link href="{{ asset('login_register/images/logo.png') }}" rel="apple-touch-icon" />

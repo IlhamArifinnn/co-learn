@@ -34,8 +34,8 @@
     <header id="header" class="header d-flex align-items-center fixed-top">
         <div class="container position-relative d-flex align-items-center justify-content-between">
             <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
-                <img src="{{ asset('landing-page/img/logo.png') }}" alt="SIBEE Logo" />
-                <h1 class="sitename">SIBEE</h1>
+                <img src="{{ asset('landing-page/img/logo.png') }}" alt="Co-Learn Logo" />
+                <h1 class="sitename">Co-Learn</h1>
                 <span>.</span>
             </a>
 
@@ -71,7 +71,7 @@
                         </div>
 
                         <h1 class="hero-title mb-4">
-                            Belajar Bareng Lebih Mudah & Seru Bersama SIBEE
+                            Belajar Bareng Lebih Mudah & Seru Bersama Co-Learn
                         </h1>
 
                         <p class="hero-description mb-4">
@@ -151,7 +151,7 @@
                         <p class="who-we-are">Tentang Kami</p>
                         <h3>Menghubungkan Teman Belajar Melalui Teknologi Kolaboratif</h3>
                         <p class="fst-italic">
-                            SIBEE adalah platform digital yang dirancang untuk membantu
+                            Co-Learn adalah platform digital yang dirancang untuk membantu
                             pelajar dan mahasiswa menemukan teman belajar, berdiskusi, dan
                             meningkatkan pemahaman secara kolaboratif.
                         </p>
@@ -208,7 +208,7 @@
             <div class="container section-title" data-aos="fade-up">
                 <h2>Bagaimana Kami Bekerja</h2>
                 <p>
-                    Kami membangun SIBEE dengan tahapan sistematis agar memberikan
+                    Kami membangun Co-Learn dengan tahapan sistematis agar memberikan
                     pengalaman belajar kolaboratif yang optimal dan mudah digunakan.
                 </p>
             </div>
@@ -323,7 +323,7 @@
             <div class="container section-title" data-aos="fade-up">
                 <h2>Layanan Utama</h2>
                 <p>
-                    SIBEE menyediakan layanan digital untuk mendukung proses belajar
+                    Co-Learn menyediakan layanan digital untuk mendukung proses belajar
                     bareng yang lebih efektif, terstruktur, dan menyenangkan.
                 </p>
             </div>
@@ -466,7 +466,7 @@
                                 Belajar Bareng Lebih Mudah, Terstruktur, dan Menyenangkan
                             </h2>
                             <p class="description">
-                                SIBEE hadir sebagai solusi digital untuk pelajar dan mahasiswa
+                                Co-Learn hadir sebagai solusi digital untuk pelajar dan mahasiswa
                                 yang ingin belajar bersama secara efektif. Dengan fitur
                                 pencocokan teman belajar, forum diskusi, penjadwalan otomatis,
                                 hingga kuis interaktif — semuanya kami rancang untuk
@@ -558,7 +558,7 @@
                         <div class="cta-content">
                             <h2>Mulai Belajar Bareng & Temukan Teman Seperjuangan!</h2>
                             <p class="lead">
-                                Daftarkan dirimu di SIBEE dan rasakan pengalaman belajar yang
+                                Daftarkan dirimu di Co-Learn dan rasakan pengalaman belajar yang
                                 lebih kolaboratif, interaktif, dan menyenangkan. Tingkatkan
                                 pemahamanmu bersama teman belajar yang sefrekuensi.
                             </p>
@@ -604,11 +604,11 @@
                                 <h3>Masih Bingung?</h3>
                                 <p>
                                     Jika kamu masih memiliki pertanyaan seputar fitur atau cara
-                                    kerja SIBEE, jangan ragu untuk menghubungi kami melalui
+                                    kerja Co-Learn, jangan ragu untuk menghubungi kami melalui
                                     berbagai saluran berikut:
                                 </p>
                                 <div class="contact-options">
-                                    <a href="mailto:support@sibee.com" class="contact-option">
+                                    <a href="mailto:support@Co-Learn.com" class="contact-option">
                                         <i class="bi bi-envelope"></i>
                                         <span>Email Support</span>
                                     </a>
@@ -630,12 +630,12 @@
                         <div class="faq-accordion">
                             <div class="faq-item faq-active">
                                 <div class="faq-header">
-                                    <h3>Apa itu SIBEE?</h3>
+                                    <h3>Apa itu Co-Learn?</h3>
                                     <i class="bi bi-chevron-down faq-toggle"></i>
                                 </div>
                                 <div class="faq-content">
                                     <p>
-                                        SIBEE adalah platform digital yang membantu pelajar dan
+                                        Co-Learn adalah platform digital yang membantu pelajar dan
                                         mahasiswa belajar secara kolaboratif dengan mencocokkan
                                         teman belajar, menyediakan ruang diskusi, dan fitur kuis
                                         interaktif.
@@ -675,12 +675,12 @@
 
                             <div class="faq-item">
                                 <div class="faq-header">
-                                    <h3>Apakah SIBEE gratis digunakan?</h3>
+                                    <h3>Apakah Co-Learn gratis digunakan?</h3>
                                     <i class="bi bi-chevron-down faq-toggle"></i>
                                 </div>
                                 <div class="faq-content">
                                     <p>
-                                        Saat ini SIBEE dapat digunakan secara gratis oleh semua
+                                        Saat ini Co-Learn dapat digunakan secara gratis oleh semua
                                         pelajar dan mahasiswa. Cukup daftar dan mulai belajar
                                         bareng!
                                     </p>
@@ -700,7 +700,7 @@
             <div class="container section-title" data-aos="fade-up">
                 <h2>Testimoni Pengguna</h2>
                 <p>
-                    Pendapat mereka yang sudah mencoba SIBEE dan merasakan manfaat
+                    Pendapat mereka yang sudah mencoba Co-Learn dan merasakan manfaat
                     belajar bareng secara kolaboratif.
                 </p>
             </div>
@@ -735,7 +735,7 @@
                                     <p>
                                         <i class="bi bi-quote quote-icon"></i>
                                         Dulu saya suka bingung belajar sendiri, tapi setelah pakai
-                                        SIBEE, saya bisa ketemu teman yang sefrekuensi dan diskusi
+                                        Co-Learn, saya bisa ketemu teman yang sefrekuensi dan diskusi
                                         bareng. Seru banget!
                                     </p>
                                 </div>
@@ -793,7 +793,7 @@
                                     <p>
                                         <i class="bi bi-quote quote-icon"></i>
                                         Saya dan teman satu jurusan sekarang sering belajar bareng
-                                        lewat SIBEE. Jadi makin semangat karena ada teman diskusi!
+                                        lewat Co-Learn. Jadi makin semangat karena ada teman diskusi!
                                     </p>
                                 </div>
                                 <div class="testimonial-profile">
@@ -827,7 +827,7 @@
             <div class="container section-title" data-aos="fade-up">
                 <h2>Kontak Kami</h2>
                 <p>
-                    Ada pertanyaan, masukan, atau ingin berkolaborasi? Hubungi tim SIBEE
+                    Ada pertanyaan, masukan, atau ingin berkolaborasi? Hubungi tim Co-Learn
                     melalui formulir atau kontak di bawah ini.
                 </p>
             </div>
@@ -856,7 +856,7 @@
                             <h3>Kontak</h3>
                             <p>
                                 WhatsApp: +62 812-3456-7890<br />
-                                Email: support@sibee.com
+                                Email: support@Co-Learn.com
                             </p>
                         </div>
                     </div>
@@ -948,7 +948,7 @@
             <div class="row gy-4">
                 <div class="col-lg-4 col-md-6 footer-about">
                     <a href="index.html" class="logo d-flex align-items-center">
-                        <span class="sitename">SIBEE</span>
+                        <span class="sitename">Co-Learn</span>
                     </a>
                     <div class="footer-contact pt-3">
                         <p>STT Terpadu Nurul Fikri</p>
@@ -956,7 +956,7 @@
                         <p class="mt-3">
                             <strong>Phone:</strong> <span>+62 812-3456-7890</span>
                         </p>
-                        <p><strong>Email:</strong> <span>support@sibee.com</span></p>
+                        <p><strong>Email:</strong> <span>support@Co-Learn.com</span></p>
                     </div>
                     <div class="social-links d-flex mt-4">
                         <a href="#"><i class="bi bi-instagram"></i></a>
@@ -1015,7 +1015,7 @@
         <div class="container copyright text-center mt-4">
             <p>
                 © <span>2025</span>
-                <strong class="px-1 sitename">SIBEE</strong>
+                <strong class="px-1 sitename">Co-Learn</strong>
                 <span>– Sistem Informasi Belajar Bareng. All Rights Reserved.</span>
             </p>
             <div class="credits">
